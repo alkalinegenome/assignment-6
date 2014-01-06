@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* CSS Document */
+
+table {
+	margin: 2rem 0;
+	width:100%;	
+}
+
+th {
+	padding: 1rem;
+	margin: 0 1rem;
+	background-color:#FFFFFF;
+	color:#0091FF;
+	font-weight:bolder;	
+}
+
+tr {
+	line-height: 3rem;
+}
+
+td {
+	padding: 0 2rem;
+	width: 33%;
+}
+
+.center {
+	text-align: center;
+}
